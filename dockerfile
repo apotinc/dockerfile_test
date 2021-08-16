@@ -1,5 +1,5 @@
-FROM tomcat:jdk8-corretto
+FROM httpd
 # Maintainer 
 MAINTAINER "apotieri@vivaldi.net" 
-EXPOSE 8080
+EXPOSE 80
 #Commenting
